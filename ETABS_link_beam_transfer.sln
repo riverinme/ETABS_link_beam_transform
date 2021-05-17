@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "frame to shell", "frame to shell.pyproj", "{9F116B32-D523-4B1D-81E5-D6022201CCAF}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "shell to frame", "..\shell to frame\shell to frame.pyproj", "{056271E5-E7B7-4933-851B-3D3BB7BFD46A}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "shell to frame", "shell to frame.pyproj", "{056271E5-E7B7-4933-851B-3D3BB7BFD46A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
